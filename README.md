@@ -1,5 +1,4 @@
 # gitskills 
 # nandao yao zheyang?s  
-# 暂存的更改
-
+# na wei shen me lao zi vs li mian hui chuwenti
 
